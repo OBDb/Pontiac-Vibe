@@ -1,0 +1,18 @@
+references:
+  - "https://en.wikipedia.org/wiki/Pontiac_Vibe"
+
+generations:
+  - name: "First Generation"
+    start_year: 2003
+    end_year: 2004
+    description: "First generation Pontiac Vibe produced from 2002-2006. The Vibe was a badged variant of the Toyota Matrix, jointly developed by GM and Toyota at NUMMI in Fremont, California. Base trim with 1.8L engine producing 130hp, AWD model with 118hp (automatic only), and GT sport trim with VVTL-i producing 170hp (6-speed manual only). Front grille resembles Pontiac Aztek styling."
+
+  - name: "First Generation (2005 Facelift)"
+    start_year: 2005
+    end_year: 2008
+    description: "Facelifted first generation with revised front fascia restyled to resemble the Pontiac Solstice, part of Pontiac's convergence design language. GT and AWD trims discontinued for 2007 model year due to poor sales and new emissions standards. Base trim continued with 1.8L engine."
+
+  - name: "Second Generation"
+    start_year: 2009
+    end_year: 2010
+    description: "Redesigned second generation debuted at December 2007 L.A. Auto Show for 2009 model year. Return of GT trim and AWD options with new 2.4L 158hp engine, plus updated 1.8L 132hp 2ZR-FE standard on base. Last new model from Pontiac brand before discontinuation. Production ended August 17, 2009."
